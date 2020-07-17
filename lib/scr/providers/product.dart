@@ -33,7 +33,7 @@ class ProductProvider with ChangeNotifier {
   Future search({String productName}) async {
     productsSearched =
         await _productServices.searchProducts(productName: productName);
-
     notifyListeners();
   }
 }
+

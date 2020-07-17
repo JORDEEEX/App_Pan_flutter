@@ -222,7 +222,7 @@ class _CartScreenState extends State<CartScreen> {
                                         CrossAxisAlignment.start,
                                     children: [
                                       Text(
-                                        'Yapea \S${user.userModel.totalCartPrice / 100} a 987654321 y manda una captura por favor!!',
+                                        'Yapea \S${user.userModel.totalCartPrice / 100} a 987654321 y manda una captura por favor!',
                                         textAlign: TextAlign.center,
                                       ),
                                       SizedBox(
