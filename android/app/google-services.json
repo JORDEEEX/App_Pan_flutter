@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555628888524",
+    "firebase_url": "https://appredstar.firebaseio.com",
+    "project_id": "appredstar",
+    "storage_bucket": "appredstar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555628888524:android:4f3a32cc594d5556cf9d69",
+        "android_client_info": {
+          "package_name": "com.example.app_pan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555628888524-3ui1c15j8poe4ik374ejtcqiao9rpc3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-ATr09a66icLz7rihTX9lDrm4T39EDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555628888524-3ui1c15j8poe4ik374ejtcqiao9rpc3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
